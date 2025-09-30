@@ -1,2 +1,2 @@
-# -dev
+# odev
 "Fotosentez aşamaları eğitim sayfası"
